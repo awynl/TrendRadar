@@ -48,8 +48,6 @@ chatgpt
 openai
 sora
 
-claude
-Anthropic
 
 ai
 !gai
@@ -69,15 +67,17 @@ ai
 芯片
 光刻机
 
-科技
-
 核能
 
-水电站
-雅鲁藏布江
 
 新质生产力
 
 无人机
 
 具身智能
+
+低空经济
+
+深圳
+低空经济
+无人机
